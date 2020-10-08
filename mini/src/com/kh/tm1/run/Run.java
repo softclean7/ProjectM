@@ -9,6 +9,7 @@ public class Run {
 		System.out.println("test2");
 		System.out.println("test3 yh");
 		System.out.println("test3 yh2");
+		System.out.println("yh 새롭게 Branch 생성했어요");
 	}
 
 }
